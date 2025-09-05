@@ -1,0 +1,67 @@
+commit 0c30d4615eb895e63759892834f89da6e6df3ce9
+Merge: f9f28d1 71f7ee6
+Author: Booooni <bn20011126@gmail.com>
+Date:   Thu Sep 4 19:28:49 2025 -0700
+
+    Merge remote-tracking branch 'origin/main'
+
+commit f9f28d139700d29e10fdfbcbf415e563b6bbed57
+Merge: 9296ed0 6fda6e6
+Author: Booooni <bn20011126@gmail.com>
+Date:   Thu Sep 4 18:24:09 2025 -0700
+
+    Resolve merge conflict between main and index-fix
+
+commit 9296ed0f76a2385b7c50f2ec1171de329e9a3cd6
+Author: Booooni <bn20011126@gmail.com>
+Date:   Thu Sep 4 18:20:19 2025 -0700
+
+    main: change the same line to another favorite food
+
+commit 6fda6e6333f640e84a61d94503e14644e2e22cef
+Author: Booooni <bn20011126@gmail.com>
+Date:   Thu Sep 4 18:18:04 2025 -0700
+
+    index-fix: change the same line to favorite movie
+
+commit 71f7ee6331c308b4e3949539a1b85909334eee03
+Author: Booooni <143657742+Booooni@users.noreply.github.com>
+Date:   Thu Sep 4 17:20:59 2025 -0700
+
+    Update index.html
+
+commit b7ff8238aacfaae9c1a29c8001b85dbd5ff18bf6
+Author: Booooni <bn20011126@gmail.com>
+Date:   Thu Sep 4 16:51:11 2025 -0700
+
+    Add favorite food div in main
+
+commit a8c6e570704e7178d6b4b8513c4ea4d22ea2c6ed
+Author: Booooni <bn20011126@gmail.com>
+Date:   Thu Sep 4 16:41:45 2025 -0700
+
+    Add favorite food in main
+
+commit 13e7239ac9e143462405247a20fe291bf8bbd067
+Author: Booooni <143657742+Booooni@users.noreply.github.com>
+Date:   Thu Sep 4 16:36:22 2025 -0700
+
+    Update index.html
+
+commit 584d24840bfba52db1c947d12d050f9efeff97f1
+Author: Booooni <bn20011126@gmail.com>
+Date:   Thu Sep 4 16:12:38 2025 -0700
+
+    Add README.md
+
+commit 9c8b7f7e4f6f05c85ea1765b72ca225ca18a6773
+Author: Booooni <143657742+Booooni@users.noreply.github.com>
+Date:   Thu Sep 4 16:00:15 2025 -0700
+
+    Update index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
