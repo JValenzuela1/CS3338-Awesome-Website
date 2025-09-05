@@ -1,0 +1,75 @@
+Filled in blanks in index.html
+
+@7ommyBoy
+7ommyBoy committed 1 hour ago
+Update index.html 
+
+@7ommyBoy
+7ommyBoy authored 50 minutes ago
+filled in blanks
+
+@7ommyBoy
+7ommyBoy authored 33 minutes ago
+Merge branch 'main' into info-fill
+
+@7ommyBoy
+7ommyBoy authored 20 minutes ago
+Merge pull request #1 from 7ommyBoy/info-fill 
+
+@7ommyBoy
+7ommyBoy authored 19 minutes ago
+Create README.md 
+
+@7ommyBoy
+7ommyBoy authored 17 minutes ago
+Update #2 index.html
+
+@7ommyBoy
+7ommyBoy authored 15 minutes ago
+Update #2 index.html
+
+@7ommyBoy
+7ommyBoy authored 14 minutes ago
+Update index.html
+
+@7ommyBoy
+7ommyBoy authored 13 minutes ago
+Merge branch 'main' into info-fill
+
+@7ommyBoy
+7ommyBoy authored 11 minutes ago
+Merge pull request #2 from 7ommyBoy/info-fill 
+
+@7ommyBoy
+7ommyBoy authored 11 minutes ago
+ Showing  with 16 additions and 2 deletions.
+ 7 changes: 7 additions & 0 deletions7  
+README.md
+Original file line number	Diff line number	Diff line change
+@@ -0,0 +1,7 @@
+This repository is for my CS3338 GitHub practice project.  
+It demonstrates:
+- Forking and cloning repositories  
+- Creating branches and making changes  
+- Using pull requests to merge changes  
+- Maintaining a clean repo with a README  
+- Creating and resolving merge conflicts  
+  11 changes: 9 additions & 2 deletions11  
+index.html
+Original file line number	Diff line number	Diff line change
+@@ -7,7 +7,14 @@
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <div>My name is _______</div>
+    <div>My favorite hobby is _______</div>
+
+    <div>My name is Tommy Works</div>
+    <div>My favorite hobby is Body Building</div>
+    <div>My favorite game is Portal</div>
+    <div>My favorite food is Chicken</div>
+
+
+</body>
+</html>
+
